@@ -40,7 +40,6 @@ Welcome to my GitHub profile! Here you'll find a collection of my personal proje
 
 Feel free to check out my repositories for projects, experiments, and research. I’m always open to collaborating on interesting challenges. Reach out if you have any questions, want to discuss tech, or just want to say hi! 😊
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourname)
-- 💬 [Telegram](https://t.me/yourusername)
+-You can cautch me by : ethanranofficial@gmail.com
 
 Thanks for stopping by! 😎
